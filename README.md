@@ -46,6 +46,9 @@ npm run dev
 
 ### 4. Endpoints (Ejemplo: Productos)
 GET    /productos        Ver todos
+
 POST   /productos        Crear nuevo
+
 PUT    /productos/:id    Actualizar
+
 DELETE /productos/:id    Eliminar
