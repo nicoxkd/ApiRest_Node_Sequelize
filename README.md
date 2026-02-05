@@ -2,7 +2,7 @@
 
 Proyecto Node.js que genera automáticamente capas de **Servicios**, **Controladores Base** y **Rutas**, permitiendo la extensión manual mediante herencia.
 
-## 🚀 Puesta en Marcha Rápida
+## Puesta en Marcha Rápida
 
 ### 1. Instalación
 ```bash
